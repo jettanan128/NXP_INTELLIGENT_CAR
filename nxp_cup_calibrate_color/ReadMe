@@ -1,0 +1,10 @@
+1. Press 'Load' Button to open camera.
+2. Press any slide bar to complete opening camera (this's a bug for this program.)
+3. slide bar to calibrate HSV
+4. Edit text box beside slide bar is range of error.
+5. Press 'read file' to read all value in file.
+6. Press 'write file' to write all value into file.
+
+about file :
+  first line is range of error value.
+  second line is HSV calibrated value.
